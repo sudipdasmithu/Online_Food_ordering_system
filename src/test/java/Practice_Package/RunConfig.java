@@ -12,9 +12,6 @@ public void ConfigTest() {
 	System.out.println(username);
 	System.out.println(url);
 	System.out.println(pw);
-	System.out.println(browser);
-	
-	
-	
+	System.out.println(browser);	
 }
 }

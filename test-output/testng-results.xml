@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="73" started-at="2023-01-18T14:58:41 IST" finished-at="2023-01-18T14:58:41 IST">
+  <suite name="Default suite" duration-ms="197" started-at="2023-01-19T10:39:09 IST" finished-at="2023-01-19T10:39:10 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="73" started-at="2023-01-18T14:58:41 IST" finished-at="2023-01-18T14:58:41 IST">
+    <test name="Default test" duration-ms="197" started-at="2023-01-19T10:39:09 IST" finished-at="2023-01-19T10:39:10 IST">
       <class name="Practice_Package.RunConfig">
-        <test-method status="PASS" signature="ConfigTest()[pri:0, instance:Practice_Package.RunConfig@fad74ee]" name="ConfigTest" duration-ms="23" started-at="2023-01-18T14:58:41 IST" finished-at="2023-01-18T14:58:41 IST">
+        <test-method status="PASS" signature="ConfigTest()[pri:0, instance:Practice_Package.RunConfig@28da7d11]" name="ConfigTest" duration-ms="56" started-at="2023-01-19T10:39:10 IST" finished-at="2023-01-19T10:39:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ConfigTest -->
